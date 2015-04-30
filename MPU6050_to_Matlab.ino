@@ -1,28 +1,5 @@
 
 
-/*
-
-Connections:
-
-MPU6050_____UNO
-VCC_________3.3v
-GND_________GND
-SCL_________PinA5
-SDA_________PinA4
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
 #include "Wire.h"
 #include "I2Cdev.h"
 #include "MPU6050.h"
